@@ -1,0 +1,17 @@
+﻿{
+  "UserId": "123456",
+  "UserName": "Jhon",
+  "Habits": [
+    {
+      "HabitId": "1",
+      "Name": "Exercise",
+      "Frequency": "Daily",
+      "Logs": [
+        {
+          "Date": "2024-07-06",
+          "Completed": true
+        }
+      ]
+    }
+  ]
+}
